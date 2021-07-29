@@ -1,0 +1,4 @@
+1. migration
+$ python manage.py makemigrations
+=>create init file
+$ python manage.py migrate
